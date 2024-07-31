@@ -1,0 +1,56 @@
+PS A:\RIT 2nd sem\DSCI640\ankit_punjabi-dsci_640\framework> & C:/Users/ankit/AppData/Local/Programs/Python/Python311/python.exe "a:/RIT 2nd sem/DSCI640/ankit_punjabi-dsci_640/framework/framework_main.py"
+Using device: cuda
+Files already downloaded and verified
+Total parameters: 81678
+Epoch 1: Validation Loss: 2.3025, Validation Accuracy: 0.1160
+Epoch 2: Validation Loss: 2.1230, Validation Accuracy: 0.2434
+Epoch 3: Validation Loss: 1.8270, Validation Accuracy: 0.3298
+Epoch 4: Validation Loss: 1.6386, Validation Accuracy: 0.3960
+Epoch 5: Validation Loss: 1.5263, Validation Accuracy: 0.4336
+Epoch 6: Validation Loss: 1.4698, Validation Accuracy: 0.4698
+Epoch 7: Validation Loss: 1.3543, Validation Accuracy: 0.5118
+Epoch 8: Validation Loss: 1.2791, Validation Accuracy: 0.5336
+Epoch 9: Validation Loss: 1.2018, Validation Accuracy: 0.5750
+Epoch 10: Validation Loss: 1.1266, Validation Accuracy: 0.5948
+Epoch 11: Validation Loss: 1.1262, Validation Accuracy: 0.6046
+Epoch 12: Validation Loss: 1.0192, Validation Accuracy: 0.6430
+Epoch 13: Validation Loss: 1.0347, Validation Accuracy: 0.6360
+Epoch 14: Validation Loss: 1.0173, Validation Accuracy: 0.6440
+Epoch 15: Validation Loss: 0.9348, Validation Accuracy: 0.6692
+Epoch 16: Validation Loss: 0.9426, Validation Accuracy: 0.6710
+Epoch 17: Validation Loss: 0.9124, Validation Accuracy: 0.6852
+Epoch 18: Validation Loss: 1.0213, Validation Accuracy: 0.6400
+Epoch 19: Validation Loss: 0.9189, Validation Accuracy: 0.6850
+Epoch 20: Validation Loss: 0.8952, Validation Accuracy: 0.6878
+Epoch 21: Validation Loss: 0.8994, Validation Accuracy: 0.6954
+Epoch 22: Validation Loss: 0.8612, Validation Accuracy: 0.7048
+Epoch 23: Validation Loss: 0.8671, Validation Accuracy: 0.7046
+Epoch 24: Validation Loss: 0.9373, Validation Accuracy: 0.6866
+Epoch 25: Validation Loss: 0.8464, Validation Accuracy: 0.7170
+Epoch 26: Validation Loss: 0.8477, Validation Accuracy: 0.7160
+Epoch 27: Validation Loss: 0.8455, Validation Accuracy: 0.7108
+Epoch 28: Validation Loss: 0.8534, Validation Accuracy: 0.7178
+Epoch 29: Validation Loss: 0.8866, Validation Accuracy: 0.7034
+Epoch 30: Validation Loss: 0.8870, Validation Accuracy: 0.7004
+Epoch 31: Validation Loss: 0.8931, Validation Accuracy: 0.7066
+Epoch 32: Validation Loss: 0.8665, Validation Accuracy: 0.7158
+Epoch 33: Validation Loss: 0.8680, Validation Accuracy: 0.7158
+Epoch 34: Validation Loss: 0.9030, Validation Accuracy: 0.7064
+Epoch 35: Validation Loss: 0.8699, Validation Accuracy: 0.7168
+Epoch 36: Validation Loss: 0.8925, Validation Accuracy: 0.7144
+Epoch 37: Validation Loss: 0.9199, Validation Accuracy: 0.7024
+Epoch 38: Validation Loss: 0.9029, Validation Accuracy: 0.7228
+Epoch 39: Validation Loss: 0.8433, Validation Accuracy: 0.7364
+Epoch 40: Validation Loss: 0.8967, Validation Accuracy: 0.7214
+Epoch 41: Validation Loss: 0.8738, Validation Accuracy: 0.7264
+Epoch 42: Validation Loss: 0.9157, Validation Accuracy: 0.7220
+Epoch 43: Validation Loss: 0.9064, Validation Accuracy: 0.7158
+Epoch 44: Validation Loss: 0.8944, Validation Accuracy: 0.7302
+Epoch 45: Validation Loss: 0.9353, Validation Accuracy: 0.7234
+Epoch 46: Validation Loss: 0.9411, Validation Accuracy: 0.7174
+Epoch 47: Validation Loss: 0.9343, Validation Accuracy: 0.7152
+Epoch 48: Validation Loss: 0.9437, Validation Accuracy: 0.7244
+Epoch 49: Validation Loss: 0.9220, Validation Accuracy: 0.7190
+Epoch 50: Validation Loss: 0.9389, Validation Accuracy: 0.7138
+Results on test dataset, Test Loss: 0.9432, Test Accuracy: 0.7104
+PS A:\RIT 2nd sem\DSCI640\ankit_punjabi-dsci_640\framework> 
